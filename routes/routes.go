@@ -1,7 +1,8 @@
 package routes
 
 import (
-	"headfirstgo/crud/controllers"
+	"headfirstgo/crud/crud_app/controllers"
+
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 )
