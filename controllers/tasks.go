@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"headfirstgo/crud/models"
+	"headfirstgo/crud_app/models"
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"

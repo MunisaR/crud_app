@@ -1,8 +1,8 @@
 package main
 
 import (
-	"headfirstgo/crud/models"
-	"headfirstgo/crud/routes"
+	"headfirstgo/crud_app/models"
+	"headfirstgo/crud_app/routes"
 )
 
 func main() {
